@@ -1,6 +1,6 @@
-# 💊 Medication Tracker Project
+# 💊 MedTracker
 
-A full-stack **Medication Tracking System** built using:
+A full-stack **Online Medication and Prescription System** built using:
 
 * ⚙️ Spring Boot (Backend)
 * 🎨 React (Frontend)
